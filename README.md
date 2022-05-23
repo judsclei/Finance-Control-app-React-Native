@@ -24,12 +24,12 @@ O Finance Control tem como objetivo auxiliar no controle de gastos de maneira f�
 
 ## :open_file_folder: Dados do usuário
 
-> Os dados do usuário são armazenados no local storage do navegador por meio da propriedade Window.localStorage.
+> Os dados do usuário são armazenados no local storage do navegador
 
 
 ## 🔨 Ferramentas utilizadas
 
-> JavaScript, HTML5, CSS3
+> JavaScript, React Native
 
 
 ## :white_check_mark: Checklist de implementação
