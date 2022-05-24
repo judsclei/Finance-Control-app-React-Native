@@ -24,13 +24,13 @@ export default function App() {
 
   const adicionaGasto = (gasto) => {
     if (gasto.length > 0) {
-      const novaTarefa = {
+      const novosGastos = {
         id: Math.random().toString(),
         nome: gasto.nome,
         data: gasto.data,
         valor: gasto.valor
       };
-      setTarefas([...gastos, novaTarefa]);
+      setGastos([...gastos, novosGastos]);
     }
   };
 
